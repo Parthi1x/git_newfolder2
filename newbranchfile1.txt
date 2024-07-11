@@ -1,1 +1,1 @@
-newbranchfile1 ted under the new folder2 (newbranch_2)
+newbranchfile1 created under the new folder2 (newbranch_2)
