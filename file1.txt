@@ -1,1 +1,4 @@
 created new file1 in newfolder (newbranch1)
+a
+b
+c
